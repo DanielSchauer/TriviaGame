@@ -4,14 +4,16 @@ background-image: url(bond.jpg);
 background-size: contain;
 background-repeat: no-repeat;
 background-position: center;
-background-color: black
+background-color: black;
+color: gold;
+margin-left: 300px
 
 }
 
 .container {
 
-background-color: white;
-opacity: 10%;
+background-color: black ;
+opacity: 50%;
 
 }
 
@@ -26,4 +28,23 @@ div.transbox p {
     margin: 5%;
     font-weight: bold;
     color: #000000;
+}
+
+h1 {
+    color: gold;
+    background-color: black;
+    opacity: 50%;
+}
+
+p {
+    text-align: center;
+    font-size: 18;
+    color: gold
+
+
+}
+
+.choices {
+    color: gold
+
 }
